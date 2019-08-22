@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Rob Ireton on 8/22/19.
+//  Created by Rob Ireton on 8/22/2019.
 //  Copyright © 2019 University of Cincinnati. All rights reserved.
 //
 
